@@ -297,3 +297,17 @@ Inkscape es útil para diseñadores, artistas y desarrolladores que necesitan cr
 **Link de Descarga:**  
 [Descargar](https://inkscape.org/release/inkscape-1.1/)
 
+
+
+## DaVinci Resolve
+
+![DaVinci Resolve](https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png)
+
+**Descripción:**  
+DaVinci Resolve es un software de edición de video y corrección de color.
+
+**Utilidad:**  
+Editar videos y ajustar colores.
+
+**Link de descarga:**  
+[Descargar](https://www.blackmagicdesign.com/products/davinciresolve)
