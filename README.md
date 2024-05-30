@@ -75,4 +75,4 @@ Proporcionar asistencia en la escritura y generación de contenido.
 - **Entrenamiento Continuo**: Se mejora constantemente con nuevas actualizaciones y datos de entrenamiento.
 
 **Link de uso:**  
-[OpenAI ChatGPT](https://chat.openai.com/)
+[Descargar](https://chat.openai.com/)
