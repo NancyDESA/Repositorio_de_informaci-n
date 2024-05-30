@@ -311,3 +311,31 @@ Editar videos y ajustar colores.
 
 **Link de descarga:**  
 [Descargar](https://www.blackmagicdesign.com/products/davinciresolve)
+
+
+
+### jQuery
+
+![jQuery](https://desarrolloweb.com/media/509/clases-jquery.jpg)
+
+**Descripción:**  
+jQuery es una biblioteca de JavaScript rápida, pequeña y rica en funciones. Hace que el manejo de documentos HTML, manipulación del DOM, manejo de eventos y animaciones sean mucho más simples con una API fácil de usar que funciona en una variedad de navegadores.
+
+**Utilidad:**  
+jQuery es útil para simplificar la escritura de código JavaScript y mejorar la interactividad en sitios web. Se utiliza para realizar acciones comunes como la manipulación del DOM, el manejo de eventos, las animaciones, las llamadas AJAX y más, de manera más sencilla y eficiente que con JavaScript puro.
+
+**Características:**
+- Selección y manipulación del DOM: Permite seleccionar y manipular elementos del DOM de manera sencilla.
+- Manejo de eventos: Facilita la adición y el manejo de eventos en elementos HTML.
+- Animaciones: Proporciona métodos para crear animaciones suaves y efectos visuales.
+- Ajax: Ofrece métodos simplificados para realizar solicitudes Ajax y manejar respuestas.
+
+**Ventajas:**
+- Fácil de aprender y usar: La API de jQuery es fácil de entender y su sintaxis simplificada permite escribir menos código.
+- Compatible con múltiples navegadores: jQuery se encarga de las diferencias entre navegadores, lo que garantiza que el código funcione de manera consistente en diferentes entornos.
+- Amplia comunidad y documentación: Cuenta con una gran comunidad de usuarios activos que ofrecen soporte, recursos y plugins.
+- Eficiencia: Ayuda a escribir código más eficiente y conciso, lo que reduce el tiempo de desarrollo y el tamaño de los archivos.
+
+**Enlace de Descarga:**  
+[Descargar](https://jquery.com/download/)
+
