@@ -238,3 +238,34 @@ Editar y retocar imágenes y gráficos.
 **Link de descarga:**  
 [Descargar](https://www.adobe.com/products/photoshop.html)
 
+## cdnjs
+
+![Logo de cdnjs](https://upload.wikimedia.org/wikipedia/commons/9/9b/CDNJS_Logo_-_Web%2C_Dark_Variant.png)
+
+
+**Descripción:**  
+cdnjs es una biblioteca de enlaces de código abierto que ofrece una amplia colección de recursos web, como bibliotecas, frameworks, estilos, fuentes y más. Está diseñada para facilitar la inclusión de recursos externos en proyectos web sin necesidad de descargar o alojar archivos localmente.
+
+**Utilidad:**  
+- Proporciona acceso rápido y fácil a recursos web populares.
+- Permite a los desarrolladores integrar bibliotecas y frameworks en sus proyectos web sin necesidad de descargarlos o mantenerlos localmente.
+- Facilita la gestión y actualización de recursos externos al proporcionar enlaces CDN (Content Delivery Network) confiables y de alto rendimiento.
+
+**Características:**
+- Amplia colección de recursos web: cdnjs ofrece una amplia variedad de bibliotecas, frameworks, estilos, fuentes y más, cubriendo las necesidades de desarrollo web más comunes.
+- Versiones actualizadas: Las bibliotecas y frameworks en cdnjs se mantienen actualizadas, lo que garantiza que los desarrolladores tengan acceso a las últimas versiones de los recursos.
+- Fácil integración: Los enlaces CDN de cdnjs se pueden incluir fácilmente en proyectos web simplemente agregando una etiqueta de script o enlace en el HTML.
+- Alto rendimiento: Los recursos en cdnjs se entregan a través de una red de entrega de contenido (CDN) global, lo que garantiza tiempos de carga rápidos y un rendimiento confiable en todo el mundo.
+
+**Ventajas:**
+- Facilita la inclusión de recursos externos en proyectos web.
+- Reduce la carga de mantenimiento al eliminar la necesidad de descargar y almacenar localmente recursos externos.
+- Mejora el rendimiento del sitio web al utilizar una red de entrega de contenido global para servir recursos.
+- Proporciona acceso a versiones actualizadas de bibliotecas y frameworks populares.
+- Contribuye al ahorro de ancho de banda y costos de alojamiento al utilizar recursos externos alojados en servidores CDN.
+
+**Link de Descarga:**  
+[Descargar](https://cdnjs.com/)
+
+
+
