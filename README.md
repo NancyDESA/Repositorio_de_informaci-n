@@ -268,4 +268,32 @@ cdnjs es una biblioteca de enlaces de código abierto que ofrece una amplia cole
 [Descargar](https://cdnjs.com/)
 
 
+### Inkscape
+
+![Logo de Inkscape](https://i.pinimg.com/originals/82/7d/33/827d335df69582d4262ff6f2c6ffcf31.jpg)
+
+
+**Descripción:**  
+Inkscape es un software de edición de gráficos vectoriales de código abierto y multiplataforma. Permite crear y editar gráficos vectoriales escalables en formatos como SVG (Scalable Vector Graphics). Inkscape es una herramienta potente y versátil utilizada por diseñadores, artistas y desarrolladores para crear ilustraciones, logotipos, diagramas, mapas y más.
+
+**Utilidad:**  
+Inkscape es útil para diseñadores, artistas y desarrolladores que necesitan crear gráficos vectoriales escalables. Se utiliza para una amplia variedad de propósitos, incluyendo la creación de ilustraciones, logotipos, diagramas, carteles, infografías y más. Inkscape proporciona herramientas avanzadas de edición de vectores y soporta una amplia gama de formatos de archivo.
+
+**Características:**
+- Herramientas de dibujo y manipulación de objetos.
+- Soporte para capas y efectos.
+- Editores de nodos y trayectorias para ajustes precisos.
+- Importación y exportación de una variedad de formatos de archivo.
+- Extensibilidad mediante complementos y scripts.
+- Interfaz de usuario personalizable.
+
+**Ventajas:**
+- Gratuito y de código abierto: Inkscape es completamente gratuito y de código abierto, lo que lo hace accesible para cualquier persona.
+- Versátil y potente: Proporciona herramientas avanzadas para crear y editar gráficos vectoriales con precisión y creatividad.
+- Multiplataforma: Disponible para Windows, macOS y Linux, lo que permite a los usuarios trabajar en diferentes sistemas operativos.
+- Comunidad activa: Inkscape cuenta con una comunidad de usuarios activa que contribuye con tutoriales, recursos y soporte.
+- Constante desarrollo: Se lanzan actualizaciones periódicas que mejoran la funcionalidad y corrigen errores.
+
+**Link de Descarga:**  
+[Descargar](https://inkscape.org/release/inkscape-1.1/)
 
