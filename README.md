@@ -134,7 +134,8 @@ Diseñar interfaces de usuario y colaborar en tiempo real.
 
 
 ## MySQL
-![MySQL Logo](https://example.com/mysql-logo.png)
+![MySQL Logo](https://qloudea.com/blog/wp-content/uploads/2022/11/mysql-logo.jpg)
+
 
 **Descripción:**  
 MySQL es un sistema de gestión de bases de datos relacional de código abierto. Es ampliamente utilizado en aplicaciones web y empresariales para almacenar y gestionar datos de manera eficiente.
@@ -158,4 +159,4 @@ MySQL se utiliza para almacenar y gestionar datos estructurados, como informaci�
 - **Flexibilidad**: MySQL es altamente configurable y se puede adaptar a una variedad de casos de uso y requisitos empresariales.
 
 **Link de descarga:**  
-[MySQL](https://www.mysql.com/)
+[Descargar](https://www.mysql.com/)
