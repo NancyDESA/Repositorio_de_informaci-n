@@ -66,5 +66,13 @@ ChatGPT es un modelo de lenguaje desarrollado por OpenAI que utiliza técnicas a
 **Utilidad:**  
 Proporcionar asistencia en la escritura y generación de contenido.
 
+**Características principales:**  
+- **Generación de Texto Coherente**: Capaz de producir texto natural y fluido en varios contextos.
+- **Comprensión Contextual**: Entiende y mantiene el contexto de la conversación para proporcionar respuestas relevantes.
+- **Versatilidad en Tareas**: Puede ser utilizado para una amplia variedad de aplicaciones, incluyendo redacción, codificación, traducción y tutoría.
+- **Asistencia en Programación**: Ayuda a escribir y depurar código en varios lenguajes de programación.
+- **Automatización de Respuestas**: Puede ser integrado en sistemas de atención al cliente para proporcionar respuestas automáticas.
+- **Entrenamiento Continuo**: Se mejora constantemente con nuevas actualizaciones y datos de entrenamiento.
+
 **Link de uso:**  
 [OpenAI ChatGPT](https://chat.openai.com/)
