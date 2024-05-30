@@ -33,7 +33,8 @@ Editar y depurar código en varios lenguajes.
 
 
 ## GitHub Desktop
-[![GitHub Desktop Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)](https://es.wikipedia.org/wiki/GitHub)
+
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png)
 
 
 **Descripción:**  
