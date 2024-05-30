@@ -376,7 +376,7 @@ WordPress es útil para personas y empresas que desean crear y mantener un sitio
 
 ## Bootstrap
 
-![Bootstrap](https://www.aosoft.co.th/uploads/articles_icon/1609919479.png)
+![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/640px-Bootstrap_logo.svg.png)
 
 
 **Descripción:**  
