@@ -57,7 +57,8 @@ Facilitar el manejo de repositorios Git.
 
 
 ## ChatGPT
-![ChatGPT Logo](https://example.com/chatgpt-logo.png)
+![ChatGPT](https://comunidadblogger.net/wp-content/uploads/2023/03/ChatGPT.jpg)
+
 
 **Descripción:**  
 ChatGPT es un modelo de lenguaje desarrollado por OpenAI que utiliza técnicas avanzadas de inteligencia artificial para generar texto de manera coherente y contextual. Puede ser utilizado para asistencia en la escritura, generación de código, y respuestas automáticas a consultas.
