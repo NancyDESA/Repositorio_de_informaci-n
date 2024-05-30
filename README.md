@@ -79,7 +79,7 @@ Proporcionar asistencia en la escritura y generación de contenido.
 
 
 ### TensorFlow
-![TensorFlow Logo](https://example.com/tensorflow-logo.png)
+![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png)
 
 **Descripción:**  
 TensorFlow es una plataforma de código abierto para el aprendizaje automático desarrollada por Google.
