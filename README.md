@@ -103,3 +103,30 @@ Desarrollar y entrenar modelos de inteligencia artificial.
 **Link de descarga:**  
 [Descargar](https://www.tensorflow.org/)
 
+
+## Figma
+![Figma Logo](https://example.com/figma-logo.png)
+
+**Descripción:**  
+Figma es una herramienta de diseño de interfaz basada en la web.
+
+**Utilidad:**  
+Diseñar interfaces de usuario y colaborar en tiempo real.
+
+**Características:**  
+- **Diseño Colaborativo**: Permite a múltiples usuarios trabajar en el mismo proyecto en tiempo real, facilitando la colaboración remota.
+- **Interfaz Intuitiva**: Su interfaz fácil de usar y sus potentes herramientas hacen que sea accesible tanto para principiantes como para diseñadores experimentados.
+- **Prototipado Interactivo**: Permite crear prototipos interactivos para probar la usabilidad y el flujo de un diseño.
+- **Componentes Reutilizables**: Facilita la creación y gestión de componentes reutilizables, lo que agiliza el proceso de diseño y garantiza la coherencia en toda la interfaz.
+- **Versionado y Historial de Ediciones**: Guarda automáticamente el historial de ediciones y permite volver a versiones anteriores del diseño.
+- **Integraciones**: Se integra fácilmente con otras herramientas de diseño y desarrollo, como Sketch, Adobe XD, y Zeplin.
+
+**Ventajas:**  
+- **Acceso en Cualquier Lugar**: Al ser una aplicación basada en la web, Figma permite acceder y editar proyectos desde cualquier dispositivo con conexión a internet.
+- **Actualizaciones Continuas**: Figma ofrece actualizaciones periódicas con nuevas funciones y mejoras basadas en comentarios de usuarios y tendencias de diseño.
+- **Facilidad de Compartir y Presentar**: Permite compartir diseños con clientes y colaboradores de forma sencilla y ofrece herramientas para presentar proyectos de manera profesional.
+- **Compatibilidad con Diseño Responsivo**: Facilita el diseño de interfaces adaptables a diferentes dispositivos y tamaños de pantalla.
+- **Comunidad Activa**: Cuenta con una comunidad activa de diseñadores que comparten recursos, tutoriales y consejos.
+
+**Link de uso:**  
+[Descargar](https://www.figma.com/)
