@@ -163,8 +163,8 @@ MySQL se utiliza para almacenar y gestionar datos estructurados, como informaci√
 
 
 ## XAMPP
+![Logo de XAMPP](https://desarrolloweb.com/storage/collection_images/actual/3H3w1fySUnrw7yqFYTXZISC1Z4qpRBdYLiUuqPCr.png)
 
-![Logo de XAMPP](https://assets.stickpng.com/images/62bdcf2a74c0457826807f18.png)
 
 
 **Descripci√≥n:**  
