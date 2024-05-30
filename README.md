@@ -32,4 +32,24 @@ Editar y depurar código en varios lenguajes.
 [Descargar](https://code.visualstudio.com/)
 
 
+## GitHub Desktop
+![GitHub Desktop Logo](https://desktop.github.com/images/github-desktop-logo.png)
 
+**Descripción:**  
+GitHub Desktop es una aplicación para gestionar repositorios Git de manera visual. Facilita la sincronización de código, la creación de ramas, y la gestión de pull requests y merges.
+
+**Utilidad:**  
+Facilitar el manejo de repositorios Git.
+
+**Características principales:**  
+- Sincronización Visual  
+- Gestión de Ramas  
+- Creación y Revisión de Pull Requests  
+- Integración con GitHub
+
+**Ventajas de GitHub Desktop:**  
+- Interfaz Intuitiva: Simplifica la gestión de repositorios para aquellos que prefieren no usar la línea de comandos.  
+- Flujo de Trabajo Eficiente: Facilita la visualización de cambios y la colaboración en proyectos de equipo.
+
+**Link de descarga:**  
+[Descargar](https://desktop.github.com/)
