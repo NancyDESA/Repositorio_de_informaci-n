@@ -201,5 +201,36 @@ Color Hunt es una plataforma para encontrar y crear paletas de colores creativas
 **Utilidad:**  
 Descubre y crea combinaciones de colores para tus proyectos de diseño.
 
-**Enlace de GitHub:**  
+**Link de Descarga:**  
 [Descargar](https://github.com/usuario/color-hunt)
+
+
+
+## Adobe Photoshop
+![Logo de Adobe Photoshop](https://w7.pngwing.com/pngs/548/34/png-transparent-adobe-photoshop-macos-bigsur-icon-thumbnail.png)
+
+
+**Descripción:**  
+Adobe Photoshop es una herramienta de edición de imágenes líder en la industria.
+
+**Utilidad:**  
+Editar y retocar imágenes y gráficos.
+
+**Características:**
+- Edición avanzada de imágenes.
+- Capas y máscaras para un control preciso.
+- Herramientas de selección y recorte.
+- Filtros y efectos para añadir estilo.
+- Herramientas de texto y tipografía.
+- Integración con Adobe Creative Cloud.
+
+**Ventajas:**
+- Potente y versátil para la edición de imágenes.
+- Amplia gama de herramientas y funciones.
+- Soporte para trabajar con archivos de alta resolución.
+- Actualizaciones regulares con nuevas características y mejoras.
+- Compatibilidad con otros productos de Adobe para un flujo de trabajo integrado.
+
+**Link de descarga:**  
+[Descargar](https://www.adobe.com/products/photoshop.html)
+
