@@ -189,3 +189,17 @@ XAMPP se utiliza para configurar rápidamente un servidor web local en Windows, 
 **Link de Descarga:**  
 [Descargar](https://www.apachefriends.org/index.html)
 
+
+
+## Color Hunt
+![Color Hunt](https://play-lh.googleusercontent.com/eOTitcMwiiplZchckBMi69fY9mRARpOeNWK15W44QwotaxFPf6F7ZVoqa4TgbBu_tZ0)
+
+
+**Descripción:**  
+Color Hunt es una plataforma para encontrar y crear paletas de colores creativas.
+
+**Utilidad:**  
+Descubre y crea combinaciones de colores para tus proyectos de diseño.
+
+**Enlace de GitHub:**  
+[Descargar](https://github.com/usuario/color-hunt)
