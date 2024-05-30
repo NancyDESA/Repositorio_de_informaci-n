@@ -160,3 +160,31 @@ MySQL se utiliza para almacenar y gestionar datos estructurados, como informaci�
 
 **Link de descarga:**  
 [Descargar](https://www.mysql.com/)
+
+
+## XAMPP
+![XAMPP Logo](https://assets.stickpng.com/images/62bdcf1274c0457826807f17.png)
+
+
+**Descripción:**  
+XAMPP es un paquete de software gratuito y de código abierto que facilita la creación de un entorno de desarrollo local para aplicaciones web. El nombre XAMPP es un acrónimo que representa los componentes del paquete: **X** para cualquier sistema operativo, **Apache**, **MySQL**, **PHP**, y **Perl**.
+
+**Utilidad:**  
+XAMPP se utiliza para configurar rápidamente un servidor web local en Windows, Linux y macOS. Es especialmente útil para desarrolladores web que desean crear y probar aplicaciones en su propia máquina antes de implementarlas en un servidor en línea.
+
+**Componentes Principales:**  
+- **Apache**: Un servidor web HTTP de código abierto y ampliamente utilizado en el mundo.
+- **MySQL**: Un sistema de gestión de bases de datos relacional de código abierto.
+- **PHP**: Un lenguaje de programación de uso general especialmente adecuado para el desarrollo web.
+- **Perl**: Un lenguaje de programación interpretado utilizado principalmente en el desarrollo de scripts y aplicaciones web.
+
+**Ventajas:**  
+- **Facilidad de Instalación**: XAMPP ofrece una instalación rápida y sencilla, lo que permite configurar un servidor web local en cuestión de minutos.
+- **Entorno de Desarrollo Completo**: Incluye todos los componentes necesarios para el desarrollo y prueba de aplicaciones web, como un servidor web, una base de datos y lenguajes de programación.
+- **Portabilidad**: Permite a los desarrolladores trabajar en sus proyectos desde cualquier lugar sin necesidad de una conexión a internet.
+- **Personalizable**: Los usuarios pueden configurar y personalizar fácilmente cada componente según sus necesidades específicas.
+- **Comunidad Activa**: XAMPP cuenta con una comunidad activa de usuarios que proporcionan soporte, recursos y contribuciones constantes.
+
+**Link de Descarga:**  
+[Descargar](https://www.apachefriends.org/index.html)
+
