@@ -207,7 +207,8 @@ Descubre y crea combinaciones de colores para tus proyectos de diseño.
 
 
 ## Adobe Photoshop
-![Logo de Adobe Photoshop](https://w7.pngwing.com/pngs/548/34/png-transparent-adobe-photoshop-macos-bigsur-icon-thumbnail.png)
+
+![Actualización significativa de Adobe Photoshop](https://petapixel.com/assets/uploads/2024/04/photoshop-update-april-2024-featured.jpg)
 
 
 **Descripción:**  
