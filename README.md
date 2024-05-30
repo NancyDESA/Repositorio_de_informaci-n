@@ -314,7 +314,7 @@ Editar videos y ajustar colores.
 
 
 
-### jQuery
+## jQuery
 
 ![jQuery](https://desarrolloweb.com/media/509/clases-jquery.jpg)
 
@@ -339,3 +339,65 @@ jQuery es útil para simplificar la escritura de código JavaScript y mejorar la
 **Enlace de Descarga:**  
 [Descargar](https://jquery.com/download/)
 
+
+
+
+
+## WordPress
+
+![WordPress](https://www.valuehost.com.br/blog/wp-content/uploads/2015/06/wordpress20-770x438.jpg.webp)
+
+
+**Descripción:**  
+WordPress es una plataforma de gestión de contenido (CMS) de código abierto que permite crear y gestionar sitios web de manera fácil y efectiva. Inicialmente diseñado como una plataforma de blogging, WordPress ha evolucionado para convertirse en una herramienta versátil que puede utilizarse para crear una amplia variedad de sitios web, incluyendo blogs, sitios web corporativos, tiendas en línea, portafolios y más.
+
+**Utilidad:**  
+WordPress es útil para personas y empresas que desean crear y mantener un sitio web sin necesidad de conocimientos técnicos avanzados. Proporciona una interfaz intuitiva y amigable para crear y gestionar contenido, así como una amplia variedad de temas y plugins que permiten personalizar y extender la funcionalidad del sitio.
+
+**Características:**
+- Editor de contenido: Un editor de contenido visual que facilita la creación y edición de páginas y entradas de blog.
+- Temas y personalización: Una amplia variedad de temas predefinidos y opciones de personalización para adaptar el diseño del sitio a tus necesidades.
+- Plugins: Una gran cantidad de plugins que añaden funcionalidades adicionales al sitio, como formularios de contacto, optimización SEO, integración de redes sociales, y más.
+- Gestión de usuarios: Funcionalidades para gestionar usuarios y roles, lo que permite asignar diferentes niveles de acceso y permisos.
+- SEO integrado: Funcionalidades básicas de SEO integradas que ayudan a mejorar el posicionamiento del sitio en los motores de búsqueda.
+
+**Ventajas:**
+- Facilidad de uso: WordPress es conocido por su interfaz intuitiva y fácil de usar, lo que lo hace accesible para usuarios de todos los niveles de experiencia.
+- Flexibilidad: Con una amplia variedad de temas y plugins disponibles, WordPress puede adaptarse a casi cualquier tipo de sitio web.
+- Comunidad activa: WordPress cuenta con una gran comunidad de usuarios y desarrolladores que ofrecen soporte, recursos y contribuciones constantes.
+- Actualizaciones regulares: Se lanzan actualizaciones periódicas que mejoran la seguridad y la funcionalidad de la plataforma.
+- Escalabilidad: WordPress es escalable y puede manejar sitios web de cualquier tamaño, desde blogs personales hasta grandes sitios corporativos.
+
+**Enlace de Descarga:**  
+[Descargar ](https://wordpress.org/download/)
+
+
+
+
+## Bootstrap
+
+![Bootstrap](https://www.aosoft.co.th/uploads/articles_icon/1609919479.png)
+
+
+**Descripción:**  
+Bootstrap es un popular framework de desarrollo web front-end de código abierto. Contiene una colección de herramientas y componentes CSS y JavaScript diseñados para facilitar el desarrollo web, incluyendo la creación de diseños responsivos y la implementación de estilos consistentes.
+
+**Utilidad:**  
+Bootstrap es útil para desarrolladores web que desean crear sitios web y aplicaciones web con un diseño moderno, responsivo y compatible con múltiples dispositivos. Proporciona un conjunto de componentes predefinidos y estilos CSS que facilitan la creación de interfaces de usuario atractivas y funcionales.
+
+**Características:**
+- Grid system: Un sistema de rejilla flexible que permite crear diseños responsivos y adaptables.
+- Componentes UI: Una colección de componentes UI predefinidos, como botones, formularios, navegación, alertas, y más.
+- Estilos CSS predefinidos: Estilos CSS consistentes que ayudan a mantener la coherencia visual en todo el sitio web.
+- JavaScript plugins: Una serie de plugins JavaScript opcionales para mejorar la funcionalidad, como modales, carruseles, pestañas, y más.
+- Diseño responsivo: Bootstrap está diseñado para admitir sitios web responsivos que se adaptan automáticamente a diferentes tamaños de pantalla y dispositivos.
+
+**Ventajas:**
+- Facilidad de uso: Bootstrap ofrece una sintaxis simple y fácil de aprender que permite a los desarrolladores crear sitios web rápidamente.
+- Diseño responsivo: Los sitios web desarrollados con Bootstrap son compatibles con dispositivos móviles y se adaptan automáticamente a diferentes tamaños de pantalla.
+- Personalizable: Bootstrap es altamente personalizable y permite a los desarrolladores modificar fácilmente el aspecto y el comportamiento de los componentes.
+- Comunidad activa: Cuenta con una gran comunidad de desarrolladores que contribuyen con recursos, documentación y soporte.
+- Compatible con navegadores: Bootstrap es compatible con la mayoría de los navegadores modernos, lo que garantiza una experiencia consistente para los usuarios finales.
+
+**Enlace de Descarga:**  
+[Descargar Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/download/)
