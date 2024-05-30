@@ -105,7 +105,8 @@ Desarrollar y entrenar modelos de inteligencia artificial.
 
 
 ## Figma
-![Figma Logo](https://example.com/figma-logo.png)
+![Figma](https://www.liderlogo.es/wp-content/uploads/2022/11/s-1024x529.png)
+
 
 **Descripción:**  
 Figma es una herramienta de diseño de interfaz basada en la web.
