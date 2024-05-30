@@ -76,3 +76,30 @@ Proporcionar asistencia en la escritura y generación de contenido.
 
 **Link de uso:**  
 [Descargar](https://chat.openai.com/)
+
+
+### TensorFlow
+![TensorFlow Logo](https://example.com/tensorflow-logo.png)
+
+**Descripción:**  
+TensorFlow es una plataforma de código abierto para el aprendizaje automático desarrollada por Google.
+
+**Utilidad:**  
+Desarrollar y entrenar modelos de inteligencia artificial.
+
+**Características Principales:**  
+- **Flexibilidad**: TensorFlow ofrece flexibilidad en la construcción y despliegue de modelos de aprendizaje automático, desde dispositivos móviles hasta grandes sistemas distribuidos.
+- **Escalabilidad**: Permite escalar fácilmente desde prototipos hasta despliegues de producción.
+- **Amplia Comunidad**: Cuenta con una amplia comunidad de desarrolladores y contribuidores que proporcionan soporte, recursos y contribuciones constantes.
+- **Librerías y Herramientas**: Incluye una amplia variedad de librerías y herramientas para tareas específicas, como TensorFlow.js para el aprendizaje automático en el navegador y TensorFlow Lite para dispositivos móviles.
+- **TensorFlow Extended (TFX)**: Proporciona un conjunto de herramientas para la construcción y despliegue de sistemas de aprendizaje automático de producción a gran escala.
+
+**Ventajas:**  
+- **Ecosistema Completo**: Ofrece un ecosistema completo para el desarrollo de aplicaciones de inteligencia artificial, desde la preparación de datos hasta el despliegue de modelos.
+- **Rendimiento Optimizado**: TensorFlow está optimizado para un rendimiento eficiente en una variedad de hardware, incluyendo CPU, GPU y TPU.
+- **Documentación Detallada**: Cuenta con una documentación detallada y recursos educativos que facilitan el aprendizaje y la implementación.
+- **Aplicaciones Diversas**: Se utiliza en una amplia variedad de aplicaciones, como reconocimiento de voz, visión por computadora, procesamiento de lenguaje natural y más.
+
+**Link de descarga:**  
+[Descargar](https://www.tensorflow.org/)
+
