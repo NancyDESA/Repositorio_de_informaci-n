@@ -131,3 +131,31 @@ Diseñar interfaces de usuario y colaborar en tiempo real.
 
 **Link de uso:**  
 [Descargar](https://www.figma.com/)
+
+
+## MySQL
+![MySQL Logo](https://example.com/mysql-logo.png)
+
+**Descripción:**  
+MySQL es un sistema de gestión de bases de datos relacional de código abierto. Es ampliamente utilizado en aplicaciones web y empresariales para almacenar y gestionar datos de manera eficiente.
+
+**Utilidad:**  
+MySQL se utiliza para almacenar y gestionar datos estructurados, como información de usuarios, contenido de sitios web, registros de transacciones, entre otros.
+
+**Características Principales:**  
+- **Escalabilidad**: MySQL es altamente escalable, lo que significa que puede manejar grandes volúmenes de datos y un alto número de usuarios concurrentes.
+- **Rendimiento Optimizado**: Está diseñado para ofrecer un rendimiento óptimo incluso en entornos de alta carga.
+- **Seguridad**: Proporciona mecanismos de seguridad robustos para proteger los datos, incluyendo autenticación de usuarios, cifrado de datos y auditoría.
+- **Soporte para Transacciones ACID**: Admite transacciones ACID (Atomicidad, Consistencia, Aislamiento, Durabilidad), garantizando la integridad de los datos.
+- **Replicación y Alta Disponibilidad**: Ofrece capacidades de replicación para distribuir datos en múltiples servidores y garantizar la disponibilidad del sistema.
+- **Compatibilidad con Estándares**: MySQL cumple con los estándares SQL ANSI y ofrece compatibilidad con una amplia variedad de lenguajes de programación y plataformas.
+
+**Ventajas:**  
+- **Costo**: Al ser de código abierto, MySQL es gratuito para su uso en la mayoría de los casos, lo que lo hace una opción atractiva para empresas y desarrolladores.
+- **Comunidad Activa**: Cuenta con una gran comunidad de usuarios y desarrolladores que proporcionan soporte, recursos y contribuciones constantes.
+- **Amplia Integración**: Se integra fácilmente con una variedad de tecnologías y herramientas, incluyendo lenguajes de programación, frameworks web y sistemas de gestión de contenido.
+- **Documentación Abundante**: Dispone de una amplia documentación, tutoriales y recursos educativos que facilitan su aprendizaje y uso.
+- **Flexibilidad**: MySQL es altamente configurable y se puede adaptar a una variedad de casos de uso y requisitos empresariales.
+
+**Link de descarga:**  
+[MySQL](https://www.mysql.com/)
