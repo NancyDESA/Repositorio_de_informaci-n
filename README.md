@@ -33,7 +33,8 @@ Editar y depurar código en varios lenguajes.
 
 
 ## GitHub Desktop
-![GitHub Desktop Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)
+[![GitHub Desktop Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png)](https://es.wikipedia.org/wiki/GitHub)
+
 
 **Descripción:**  
 GitHub Desktop es una aplicación para gestionar repositorios Git de manera visual. Facilita la sincronización de código, la creación de ramas, y la gestión de pull requests y merges.
